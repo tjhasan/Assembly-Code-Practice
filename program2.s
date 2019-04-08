@@ -79,7 +79,7 @@ exit:
 	la $a0, ($t2)
 	syscall
 	
-	li $v0, 4 #Printing the original string
+	li $v0, 4 
 	la $a0, out3
 	syscall
 	

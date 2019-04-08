@@ -3,8 +3,11 @@
 
 ###### Files Contained:
 	 program1.s
+		>Contains a program written in MIPS using SPIM that gets the sum, min, and max values of user inputted data
 	 program2.s
+		>Contains a program written in MIPS using SPIM that counts the number of occurences a specified character has in a given string
 	 program3.s
+		>Contains a program written in MIPS using SPIM that replaces a specified character in a given string with a seperate specified character
 	
 ###### SPIM Version:
 	 8.0
